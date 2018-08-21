@@ -8,7 +8,8 @@ This application can create learning data set using web camera.
 ![demo](https://user-images.githubusercontent.com/32557553/44408415-4b801800-a59b-11e8-8166-395dc356069c.gif)
 
 * The "dog" directory
-![dogs](https://user-images.githubusercontent.com/32557553/44408544-8c782c80-a59b-11e8-9d59-177c3547a57c.png)
+![dogs](https://user-images.githubusercontent.com/32557553/44408544-8c782c80-a59b-11e8-9d59-177c3547a57c.png)  
+Image file name is unique name based on time.
 
 ## Operation check environment
 * Windows10 64-bit
