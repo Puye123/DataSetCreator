@@ -12,10 +12,12 @@ This application can create learning data set using web camera.
 Image file name is unique name based on time.
 
 ## Operation check environment
+### Software
 * Windows10 64-bit
 * python 3.6.4 (Anaconda 5.1.4)
-* opencv
+* opencv 3.4.1
 * progressbar2
+### Hardware 
 * Web Camera (I use [ELECOM UCAM-C0220FBWH](http://www2.elecom.co.jp/multimedia/pc-camera/ucam-c0220fb/))
 
 ## Usage
