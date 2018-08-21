@@ -23,7 +23,7 @@ def make_directory(dir_name):
 
 # Parse command line arguments
 def parser():
-    usage = 'python {} FILE [--dir <dir_name>] [--num <num_of_pictures>] [--size <size_of_pictures>] [--format <jpg | png | bmp>] [--help]'.format(__file__)
+    usage = 'python [--dir <dir_name>] [--num <num_of_pictures>] [--size <size_of_pictures>] [--format <jpg | png | bmp>] [--help]'.format(__file__)
     argparser = ArgumentParser(usage=usage)
     argparser.add_argument('-d', '--dir', help='directory name', type=str, default='images', metavar='<dir_name>')
     argparser.add_argument('-n', '--num', help='number of pictures', type=int, default=10, metavar='<num_of_pictures>')
