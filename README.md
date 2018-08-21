@@ -16,6 +16,7 @@ Image file name is unique name based on time.
 * python 3.6.4 (Anaconda 5.1.4)
 * opencv
 * progressbar2
+* Web Camera (I use [ELECOM UCAM-C0220FBWH](http://www2.elecom.co.jp/multimedia/pc-camera/ucam-c0220fb/))
 
 ## Usage
 ```
